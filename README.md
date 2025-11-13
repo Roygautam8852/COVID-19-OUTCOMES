@@ -27,3 +27,10 @@ This **Exploratory Data Analysis (EDA)** on a COVID-19 dataset investigates case
 1. Clone:
    ```bash
    git clone https://github.com/Roygautam8252/covid19-eda.git
+
+
+
+
+
+   my name is gautam
+   
